@@ -1,2 +1,3 @@
-# ukrainian-phonetic-keyboard-mac
-Ukrainian Phonetic Keyboard Layout for Mac OS X
+# Ukrainian Phonetic Keyboard Layout for Mac OS X
+
+Щоб встановити українську фонетичну розкладку, спопіюйте файли `UA.icns` та `UA.keylayout` у директорію `/Library/Keyboard Layouts/` (для всіх користувачів) або `~/Library/Keyboard Layouts/` (для поточного користувача). Нова розкладка повинна одразу з'явитись у списку розкладок (в налаштуваннях клавіатури) під назвою "UA", де ви її можете додати зі списку `others`.
