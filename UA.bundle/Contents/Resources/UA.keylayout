@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.5.180 on 2017-06-01 at 14:36 (GMT+9)-->
+<!--Last edited by Ukelele version 3.2.5.180 on 2017-06-01 at 15:44 (GMT+9)-->
 <keyboard group="126" id="-925" name="UA" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -442,7 +442,7 @@
 			<key code="13" output="₩"/>
 			<key code="14" output="€"/>
 			<key code="15" output="₽"/>
-			<key code="16" output=""/>
+			<key code="16" output="¥"/>
 			<key code="17" output="₺"/>
 			<key code="18" output="™"/>
 			<key code="19" output="©"/>
@@ -458,7 +458,7 @@
 			<key code="29" output="≠"/>
 			<key code="30" output="}"/>
 			<key code="31" output=""/>
-			<key code="32" output="¥"/>
+			<key code="32" output=""/>
 			<key code="33" output="{"/>
 			<key code="34" output="₹"/>
 			<key code="35" output="£"/>
