@@ -13,7 +13,7 @@
 		<key>TISInputSourceID</key>
 		<string>com.apple.keyboardlayout.ua.ua</string>
 		<key>TISIntendedLanguage</key>
-		<string>uk</string>
+		<string>uk-UA</string>
 	</dict>
 </dict>
 </plist>
