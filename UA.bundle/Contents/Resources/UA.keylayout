@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.5.180 on 2017-05-30 at 17:23 (GMT+9)-->
-<keyboard group="126" id="-10295" name="UA" maxout="1">
+<!--Last edited by Ukelele version 3.2.5.180 on 2017-06-01 at 11:01 (GMT+9)-->
+<keyboard group="126" id="-10371" name="UA" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
 	</layouts>
@@ -211,7 +211,7 @@
 			<key code="18" output="!"/>
 			<key code="19" output="@"/>
 			<key code="20" output="#"/>
-			<key code="21" output="="/>
+			<key code="21" output="$"/>
 			<key code="22" output="^"/>
 			<key code="23" output="%"/>
 			<key code="24" output="Ґ"/>
@@ -444,26 +444,26 @@
 			<key code="15" output="р"/>
 			<key code="16" output="и"/>
 			<key code="17" output="т"/>
-			<key code="18" output="1"/>
-			<key code="19" output="2"/>
-			<key code="20" output="3"/>
-			<key code="21" output="4"/>
-			<key code="22" output="6"/>
-			<key code="23" output="5"/>
-			<key code="24" output="="/>
-			<key code="25" output="9"/>
-			<key code="26" output="7"/>
-			<key code="27" output="_"/>
-			<key code="28" output="8"/>
-			<key code="29" output="0"/>
+			<key code="18" output="!"/>
+			<key code="19" output="@"/>
+			<key code="20" output="№"/>
+			<key code="21" output="₴"/>
+			<key code="22" output="^"/>
+			<key code="23" output="%"/>
+			<key code="24" output="+"/>
+			<key code="25" output="("/>
+			<key code="26" output="&#x0026;"/>
+			<key code="27" output="-"/>
+			<key code="28" output="*"/>
+			<key code="29" output=")"/>
 			<key code="30" output="}"/>
 			<key code="31" output="о"/>
 			<key code="32" output="у"/>
 			<key code="33" output="{"/>
 			<key code="34" output="і"/>
-			<key code="35" output="п"/>
+			<key code="35" output="="/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="л"/>
+			<key code="37" output="_"/>
 			<key code="38" output="й"/>
 			<key code="39" output="]"/>
 			<key code="40" output="к"/>
