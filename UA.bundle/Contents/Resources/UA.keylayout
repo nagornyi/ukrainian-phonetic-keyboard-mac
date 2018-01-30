@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.5.180 on 2018-01-30 at 11:59 (GMT+9)-->
+<!--Last edited by Ukelele version 3.2.5.180 on 2018-01-30 at 13:12 (GMT+9)-->
 <keyboard group="126" id="-925" name="UA" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -229,10 +229,10 @@
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="Л"/>
 			<key code="38" output="Й"/>
-			<key code="39" output="Ю"/>
+			<key code="39" output="Ч"/>
 			<key code="40" output="К"/>
-			<key code="41" output="Ч"/>
-			<key code="42" output="Ґ"/>
+			<key code="41" output="Ґ"/>
+			<key code="42" output="Ю"/>
 			<key code="43" output="Ї"/>
 			<key code="44" output="?"/>
 			<key code="45" output="Н"/>
@@ -701,10 +701,10 @@
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="л"/>
 			<key code="38" output="й"/>
-			<key code="39" output="ю"/>
+			<key code="39" output="ч"/>
 			<key code="40" output="к"/>
-			<key code="41" output="ч"/>
-			<key code="42" output="ґ"/>
+			<key code="41" output="ґ"/>
+			<key code="42" output="ю"/>
 			<key code="43" output="ї"/>
 			<key code="44" output="/"/>
 			<key code="45" output="н"/>
