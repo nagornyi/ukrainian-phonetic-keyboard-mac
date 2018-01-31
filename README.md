@@ -1,7 +1,7 @@
 # Ukrainian Phonetic Keyboard Layout for Mac OS X
-Українська фонетична розкладка клавіатури для Mac OS X, яка повністю повторює розкладку "Ukrainian Phonetic" для Linux.
+Українська фонетична розкладка клавіатури для Mac OS X, яка повністю повторює розкладку "Ukrainian Phonetic" для Linux. Фонетична розкладка полегшує набір українського тексту на клавіатурах з відсутніми кирилічними символами.
 
-Щоб встановити українську фонетичну розкладку, спопіюйте файли [UA.icns](https://github.com/nagornyi/ukrainian-phonetic-keyboard-mac/raw/master/UA.bundle/Contents/Resources/UA.icns) та [UA.keylayout](https://github.com/nagornyi/ukrainian-phonetic-keyboard-mac/raw/master/UA.bundle/Contents/Resources/UA.keylayout) у директорію `/Library/Keyboard Layouts/` (для всіх користувачів) або `~/Library/Keyboard Layouts/` (для поточного користувача). Нова розкладка повинна одразу з'явитись у списку розкладок (в налаштуваннях клавіатури) під назвою `UA` (щоб побачити її, вам спершу потрібно відкрити вкладку `others`).
+Щоб встановити українську фонетичну розкладку, скопіюйте файли [UA.icns](https://github.com/nagornyi/ukrainian-phonetic-keyboard-mac/raw/master/UA.bundle/Contents/Resources/UA.icns) та [UA.keylayout](https://github.com/nagornyi/ukrainian-phonetic-keyboard-mac/raw/master/UA.bundle/Contents/Resources/UA.keylayout) у директорію `/Library/Keyboard Layouts/` (для всіх користувачів) або `~/Library/Keyboard Layouts/` (для поточного користувача). Нова розкладка повинна одразу з'явитись у списку розкладок (в налаштуваннях клавіатури) під назвою `UA` (щоб побачити її, вам спершу потрібно відкрити вкладку `others`).
 
 Розкладку створено за допомогою програми [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
 
