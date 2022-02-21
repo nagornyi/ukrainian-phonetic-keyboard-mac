@@ -10,6 +10,8 @@
 	<string>1.0</string>
 	<key>KLInfo_UA</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>com.apple.keyboardlayout.ua.ua</string>
 		<key>TISIntendedLanguage</key>
